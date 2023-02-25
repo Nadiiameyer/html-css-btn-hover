@@ -1,1 +1,24 @@
-/* ваше решение здесь */
+#login{
+    background-color: #778D45;
+    border-radius: 25px;
+    color: white;
+    border: none;
+
+}
+#registration{
+    background-color: #AEC09A;
+    border-radius: 25px;
+    
+}
+button{
+    font-size: medium;
+    margin: 30px;
+    padding: 40px;
+   
+    
+}
+a{
+    margin: 40px;
+    padding: 40px;
+    
+}
